@@ -90,7 +90,7 @@ export default function Home() {
                   <ul className="text-secondary-600 text-sm space-y-1">
                     <li>• Supervised by Prof. Thomas Nichols</li>
                     <li>• NIH studentship funded</li>
-                    <li>• Computer Science & Population Health</li>
+                    <li>• Affiliated with Computer Science & Population Health</li>
                   </ul>
                 </div>
                 
@@ -103,7 +103,7 @@ export default function Home() {
                     <span className="bg-emerald-100 text-emerald-700 px-3 py-1 rounded-full text-sm font-medium">2016 - 2019</span>
                   </div>
                   <ul className="text-secondary-600 text-sm space-y-1">
-                    <li>• Ranked #2/340 (2016-2017)</li>
+                    <li>• Ranked #2/340</li>
                     <li>• Dissertation advised by Prof. Korbinian Strimmer and Prof. Francoise Tisseur</li>
                     <li>• Maths Excellence Awards</li>
                     <li>• International Student Scholarship</li>
