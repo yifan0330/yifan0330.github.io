@@ -2,7 +2,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NODE_ENV === 'production' ? 'https://yifan0330.github.io/yifan-website' : 'http://localhost:3000'),
+  metadataBase: new URL(process.env.NODE_ENV === 'production' ? 'https://yifan0330.github.io' : 'http://localhost:3000'),
   title: 'Yifan Yu - Health Data Science Researcher',
   description: 'Ph.D. candidate in Health Data Science at University of Oxford, specializing in Meta-Analysis on fMRI data, Spatial modelling, and Statistical machine learning.',
   keywords: 'Yifan Yu, Health Data Science, fMRI, Meta-Analysis, Machine Learning, Oxford University, Neuroscience',
